@@ -5621,10 +5621,10 @@ lzma-native@^8.0.5, lzma-native@^8.0.6:
     node-gyp-build "^4.2.1"
     readable-stream "^3.6.0"
 
-macos-release@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/macos-release/-/macos-release-3.1.0.tgz#6165bb0736ae567ed6649e36ce6a24d87cbb7aca"
-  integrity sha512-/M/R0gCDgM+Cv1IuBG1XGdfTFnMEG6PZeT+KGWHO/OG+imqmaD9CH5vHBTycEM3+Kc4uG2Il+tFAuUWLqQOeUA==
+macos-release@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.npmjs.org/macos-release/-/macos-release-3.2.0.tgz#dcee82b6a4932971b1538dbf6f3aabc4a903b613"
+  integrity sha512-fSErXALFNsnowREYZ49XCdOHF8wOPWuFOGQrAhP7x5J/BqQv+B02cNsTykGpDgRVx43EKg++6ANmTaGTtW+hUA==
 
 magic-string@^0.27.0:
   version "0.27.0"

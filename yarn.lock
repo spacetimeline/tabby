@@ -549,10 +549,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@ngtools/webpack@^15.2.5":
-  version "15.2.5"
-  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-15.2.5.tgz#679c509fde254e92442ce97bc512638f4189453a"
-  integrity sha512-wD6GY4xghVK+SQL0dy/M3saGx5pqi7+1VHEr+BBI7IUNYGSqPNzylKNxLBgQiTzfkzvbrZ6MhfaMNkhvSCYr5w==
+"@ngtools/webpack@^15.2.11":
+  version "15.2.11"
+  resolved "https://registry.npmjs.org/@ngtools/webpack/-/webpack-15.2.11.tgz#c30f7af978bc512b874624ce0f7be5d22ae39e6d"
+  integrity sha512-yqp+FziuJ+wIVij4eTqfhuiTPNaG1PU8ukeGOdqkVH4nQMlmzs9UldXy1iYC/6swzn6XO/pkqisU3m/jxemMzA==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
